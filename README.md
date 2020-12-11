@@ -8,11 +8,10 @@ a universe aster generator
 ## run it
 linux 64-bit
 
-1 step:
+step 1:
 ./buddha
 
-2 step:
+step 2:
 ./server
 
 Now you can open http://localhost:8080/seek/    to browse the universe.
-
